@@ -1,0 +1,25 @@
+/*
+Responsive for vintage
+Use this compilate CSS for any device from 860px and Up!
+*/
+@media (min-width: 860px) {
+.navbar>.container .navbar-brand-aml, .navbar>.container-fluid .navbar-brand-aml {
+    margin-left: -15px;
+   }
+   .top-mobile {
+   	/*margin-top: 5%;*/
+   }
+   .iframe-facebook {
+		width: 90%;
+		height: 450px;
+		align-self: center;
+		margin-left: 5%;
+		margin-top: 3%;
+	}
+	.margin-right5 {
+		margin-right: 5%;
+	}
+	.reduce-fonta {
+		font-size: 1.2rem;
+	}
+}
