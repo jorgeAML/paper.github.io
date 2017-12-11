@@ -1,0 +1,26 @@
+@media(max-width: 736px) {
+	.media-fg-2 {
+		margin-top: 2%;
+	}
+	.iframe-facebook {
+		width: 100%;
+		height: 500px;
+	}
+	.top-mobile {
+		margin-top: 25%;
+	}
+	.list-group-js {
+		margin-top: 10%;
+	}
+	.navbar-brand-aml {
+		margin-left: 25px;
+	}
+	.media_cont {
+		margin-top: 7%;
+		margin-bottom: 7%;
+	}
+}
+/*
+WEb Responsive
+Use this compilate of CSS for any device from 0px to 736px just only for mobiles!
+*/
