@@ -53,7 +53,7 @@ $(document).ready(function () {
 		"class": "army-container c1",
 		html: ("<a/><h2/><p/><a/>"),
 	});
-	$(".c1").find("a").eq(0).html("<img class='img-army-md4' src='medicinaresources_staticfiles/semiologia/imagenes_libros/semio6.jpg'>").attr({
+	$(".c1").find("a").eq(0).html("<img class='img-army-md4' src='https://s3-us-west-2.amazonaws.com/www.medicinaresources.com/medicinaresources_staticfiles/semiologia/imagenes_libros/semio6.jpg'>").attr({
 		title: "Descarga Libro de Semiología 2016",
 		href: "https://s3-us-west-2.amazonaws.com/www.medicinaresources.com/medicinaresources_staticfiles/semiologia/libros/LIBRO+DE+SEMIOLOGIA+1-2013.pdf",
 	});
@@ -75,7 +75,7 @@ $(document).ready(function () {
 		"class": "army-container c4 aml_banner media_cont",
 		html: ("<a/><h2/><p/><a/>"),
 	});
-	$(".c4").find("a").eq(0).html("<img class='img-army-md4' src='medicinaresources_staticfiles/semiologia/imagenes_libros/semio3.jpg'>").attr({
+	$(".c4").find("a").eq(0).html("<img class='img-army-md4' src='https://s3-us-west-2.amazonaws.com/www.medicinaresources.com/medicinaresources_staticfiles/semiologia/imagenes_libros/semio3.jpg'>").attr({
 		title: "Descarga Manual Mosby 7ma. Edición",
 		href: "https://s3-us-west-2.amazonaws.com/www.medicinaresources.com/medicinaresources_staticfiles/semiologia/libros/Manual+Mosby.pdf",
 	});
@@ -97,7 +97,7 @@ $(document).ready(function () {
 		"class": "army-container c5 aml_banner media_cont",
 		html: ("<a/><h2/><p/><a/>"),
 	});
-	$(".c5").find("a").eq(0).html("<img class='img-army-md4' src='medicinaresources_staticfiles/semiologia/imagenes_libros/semio5.jpg'>").attr({
+	$(".c5").find("a").eq(0).html("<img class='img-army-md4' src='https://s3-us-west-2.amazonaws.com/www.medicinaresources.com/medicinaresources_staticfiles/semiologia/imagenes_libros/semio5.jpg'>").attr({
 		title: "Descarga Guía Seidel Exploración Fisica 8va. Edición",
 		href: "https://s3-us-west-2.amazonaws.com/www.medicinaresources.com/medicinaresources_staticfiles/semiologia/libros/Guia+Seidel.pdf",
 	});
@@ -124,7 +124,7 @@ $(document).ready(function () {
 		"class": "army-container c2 gradient-aml",
 		html: ("<a/><h2/><p/><a/>"),
 	});
-	$(".c2").find("a").eq(0).html("<img class='img-army-md4' src='medicinaresources_staticfiles/semiologia/imagenes_libros/semio1.jpg'>").attr({
+	$(".c2").find("a").eq(0).html("<img class='img-army-md4' src='https://s3-us-west-2.amazonaws.com/www.medicinaresources.com/medicinaresources_staticfiles/semiologia/imagenes_libros/semio1.jpg'>").attr({
 		title: "Descarga Manual Seidel Exploración Física 8va. Edición",
 		href: "https://s3-us-west-2.amazonaws.com/www.medicinaresources.com/medicinaresources_staticfiles/semiologia/libros/Manual+Seidel+de+Exploracion.pdf",
 	});
@@ -146,7 +146,7 @@ $(document).ready(function () {
 		"class": "army-container c3 gradient-aml aml_banner_containerbooks",
 		html: ("<a/><h2/><p/><a/>"),
 	});
-	$(".c3").find("a").eq(0).html("<img class='img-army-md4' src='medicinaresources_staticfiles/semiologia/imagenes_libros/semio2.jpg'>").attr({
+	$(".c3").find("a").eq(0).html("<img class='img-army-md4' src='https://s3-us-west-2.amazonaws.com/www.medicinaresources.com/medicinaresources_staticfiles/semiologia/imagenes_libros/semio2.jpg'>").attr({
 		title: "Descarga Manual Suros 8va. Edició",
 		href: "https://s3-us-west-2.amazonaws.com/www.medicinaresources.com/medicinaresources_staticfiles/semiologia/libros/Semiologia+Suros+8ed.pdf",
 	});
@@ -168,7 +168,7 @@ $(document).ready(function () {
 		"class": "army-container c6 gradient-aml aml_banner_containerbooks",
 		html: ("<a/><h2/><p/><a/>"),
 	});
-	$(".c6").find("a").eq(0).html("<img class='img-army-md4' src='medicinaresources_staticfiles/semiologia/imagenes_libros/semio4.jpg'>").attr({
+	$(".c6").find("a").eq(0).html("<img class='img-army-md4' src='https://s3-us-west-2.amazonaws.com/www.medicinaresources.com/medicinaresources_staticfiles/semiologia/imagenes_libros/semio4.jpg'>").attr({
 		title: "Descarga Habilidades Clínicas Pediatricas 4ta. Edición",
 		href: "medicinaresources_staticfiles/semiologia/libros/Pediatric Clinical Skills.pdf",
 	});
